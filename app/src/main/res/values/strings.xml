@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PizzaRestaurant</string>
+    <string name="logo">pizza</string>
+    <string name="name">Your Name</string>
+    <string name="nameInputText">Please fill your name</string>
+    <string name="submitBtn">Submit</string>
+    <string name="toolbarTitle">Hello, Yuda</string>
+    <string name="user_icon">user_icon</string>
+    <string name="storePhoto">Store Photo</string>
+    <string name="storeLocation">Cihampelas</string>
+    <string name="storeText">Store</string>
+    <string name="locationText">Location</string>
+    <string name="findText">Find on Maps</string>
+    <string name="btnText">See Menus</string>
+    <string name="food">food</string>
+    <string name="namePizza">Pepperoni Pizza</string>
+    <string name="foodPrice">Price :Rp. 66.000</string>
+    <string name="foodDescription">Pepperoni pizza adalah pizza yang memiliki topping daging pepperoni sapi asli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupun malam anda</string>
+    <string name="labelBtnOrder">Order Now</string>
+    <string name="labelBtnBack">Back</string>
+    <string name="orderDetail">Order Detail</string>
+    <string name="orderInfo">Yuda\nStore : Cihampelas\nPizza sudah dipesan</string>
+    <string name="pengiriman">Pengiriman</string>
+    <string name="option1">Ambil Sendiri</string>
+    <string name="option2">Fast Delivery (minimal 30 menit sampai)</string>
+    <string name="done">Done</string>
+    <string name="orderMessage">Terima kasih Pak Yuda sudah memesan ditoko kami, pesanan Pepperoni Pizza anda dikirim menggunakan Fast Delivery</string>
+</resources>
